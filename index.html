@@ -316,8 +316,19 @@
             <div class="textarea-container">
               <textarea class="form-control" name="name" rows="4" cols="80" placeholder="Type a message..."></textarea>
             </div>
-            <div class="send-button" class="g-recaptcha" data-sitekey="reCAPTCHA_site_key" data-callback='onSubmit' data-action='submit'>
-              <a href="#pablo" class="btn btn-info btn-round btn-block btn-lg">Send Message</a>
+            <div class="form-check">
+              <label class="form-check-label">
+                <input class="form-check-input g-recaptcha" type="checkbox"
+                  data-sitekey="6Lc14r8ZAAAAACbcIYtV59Y_Y7mO9VEpGt7CWoGx" data-callback='onSubmit' data-action='submit' id="demo-form"
+                >
+                <span class="form-check-sign"></span>
+                Verify
+              </label>
+            </div>
+            <div class="send-button">
+              <a href="#pablo" class="btn btn-info btn-round btn-block btn-lg"
+              
+              >Send Message</a>
             </div>
           </div>
         </div>
@@ -358,7 +369,7 @@
   <script src="https://www.google.com/recaptcha/api.js"></script>
   <script>
     function onSubmit(token) {
-      document.getElementById("email-form").submit();
+      document.getElementById("demo-form").submit();
     }
   </script>
 
