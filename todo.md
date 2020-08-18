@@ -23,3 +23,16 @@ add text to the portifolio pictures
 add quick links section
 Edit the portfolio section
 Add portifolio modals
+Checkout sprites for image compression
+
+- MOBILE RESPONSIVENESS
+Menu icon bars to black
+Change side panel gradient to a light color
+make trusted by images responsive
+replace the services section with a lighter version
+make the portfolio section disappear or colapsable
+Make text center for the footer 
+Create some space between contact and form
+hide nav links for the footer
+Set up scroll up anchor
+
