@@ -25,7 +25,7 @@ Edit the portfolio section
 Add portifolio modals
 Checkout sprites for image compression
 
-- MOBILE RESPONSIVENESS
+# MOBILE RESPONSIVENESS
 Menu icon bars to black
 Change side panel gradient to a light color
 make trusted by images responsive
@@ -36,3 +36,12 @@ Create some space between contact and form
 hide nav links for the footer
 Set up scroll up anchor
 
+# Adding New Features
+Make navbar stick to the top 
+Change imgs on the services section
+make text spread out on services cards
+Change footer details
+Remove twitter icons
+Change trusted by section
+Add in actual projects
+Change sidebar color
