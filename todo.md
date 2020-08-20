@@ -40,8 +40,7 @@ Set up scroll up anchor
 Make navbar stick to the top 
 Change imgs on the services section
 make text spread out on services cards
-Change footer details
-Remove twitter icons
+Change footer detailsRemove twitter icons
 Change trusted by section
 Add in actual projects
 Change sidebar color
